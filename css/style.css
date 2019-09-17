@@ -2,6 +2,15 @@ body {
   /* overflow: hidden; */
 }
 
+.homepage {
+  background: url('https://source.unsplash.com/78A265wPiO4/2000x1328');
+  background-repeat: no-repeat;
+}
+
+.jumbotron {
+  background: rgba(255, 255, 255, 0.6);
+}
+
 .navbar .nav-link {
   font-size: 14px;
   text-transform: uppercase;
