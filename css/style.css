@@ -41,7 +41,7 @@ body {
   background: rgba(0, 0, 0, 0.7);
 }
 
-#video-play {
+/* #video-play {
   position: relative;
   min-height: 200px;
   background: url('../img/media.jpg');
@@ -54,7 +54,7 @@ body {
 
 #video-play a {
   color: #fff;
-}
+} */
 
 #page-header {
   height: 200px;
@@ -206,7 +206,7 @@ body {
   /* Make sure all circles are at the same spot */
   .left::after,
   .right::after {
-    left: 15px;
+    left: 18px;
   }
 
   /* Make all right containers behave like the left ones */
